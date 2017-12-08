@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textwindow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70sp"
+        android:fontFamily="casual"
+        android:padding="10dp"
+        android:text="@string/txt_filler"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+
+    <Button
+        android:id="@+id/gimme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textwindow"
+        android:onClick="generate"
+        android:layout_centerHorizontal="true"
+        android:text="@string/gimme" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gimme"
+        android:layout_centerHorizontal="true"
+        android:padding="8dp">
+
+        <Button
+            android:id="@+id/copy_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:onClick="txtcopy"
+            android:drawableLeft="@drawable/ic_content_copy_black_24dp"
+            android:text="@string/copy" />
+
+        <Button
+            android:id="@+id/share_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:onClick="txtshare"
+            android:layout_toRightOf="@id/copy_btn"
+            android:drawableLeft="@drawable/ic_share_black_24dp"
+            android:text="@string/share" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

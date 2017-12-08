@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="convo_start">
+        <item>What was the last funny video you saw?</item>
+        <item>What do you do to get rid of stress?</item>
+        <item>What is something you are obsessed with?</item>
+        <item>Who is your favorite entertainer (comedian, musician, actor, etc.)?</item>
+        <item>What\'s your favorite way to waste time?</item>
+        <item>Do you have any pets? What are their names?</item>
+        <item>Where did you go last weekend? What did you do?</item>
+        <item>What are you going to do this weekend?</item>
+        <item>What is something that is popular now that annoys you?</item>
+        <item>What did you do on your last vacation?</item>
+        <item>What was the last time you worked incredibly hard?</item>
+        <item>Are you very active of do you prefer to just relax in your free time?</item>
+        <item>What do you do when you hang out with your friends?</item>
+        <item>Do you sleep with a stuffed animal?</item>
+        <item>Tell me about your first car.</item>
+        <item>Do you drink coffee or tea?</item>
+        <item>If you could have any super power, what would it be?</item>
+        <item>If you were stranded on a deserted island and you could have only 1 item, what would
+            it be?
+        </item>
+        <item>Do you believe in luck?</item>
+        <item>Do you play video games?</item>
+        <item>Do you believe people are inherently good?</item>
+        <item>How often do you shower?</item>
+        <item>What is your favorite board game?</item>
+        <item>What is your favorite charity?</item>
+        <item>Have you ever gotten a speeding ticket?</item>
+        <item>Do you prefer cats or dogs?</item>
+        <item>Would you prefer to live in the city or a rural area?</item>
+        <item>What is your favorite season?</item>
+        <item>Do you speak any other languages?</item>
+        <item>Have you ever cried because you were so happy?</item>
+        <item>What is the best thing that happened to you during the past week?</item>
+        <item>What is the worst thing that happened to you during the past week?</item>
+        <item>Do you sing in the shower?</item>
+        <item>What is the most valuable thing that you own?</item>
+        <item>What would you do if you only had 24 hours left to live?</item>
+        <item>Who is your oldest friend? Where did you meet them?</item>
+
+        <item>What\'s the best / worst thing about your work / school?</item>
+
+        <item>If you had intro music, what song would it be? Why?</item>
+
+        <item>What were you really into when you were a kid?</item>
+
+        <item>If you could have any animal as a pet, what animal would you choose?</item>
+
+        <item>What three words best describe you?</item>
+
+        <item>What would be your perfect weekend?</item>
+
+        <item>What do you think of tattoos? Do you have any?</item>
+
+        <item>What\'s the most useful thing you own?</item>
+
+        <item>Have you ever saved an animal\'s life? How about a person\'s life?</item>
+
+        <item>If you opened a business, what kind of business would it be?</item>
+
+        <item>Are you a very organized person?</item>
+
+        <item>Have you ever spoke in front of a large group of people? How did it go?</item>
+
+        <item>What is the strangest dream you have ever had?</item>
+
+        <item>What is a controversial opinion you have?</item>
+
+        <item>Who in your life brings you the most joy?</item>
+        <item>Who had the biggest impact on the person you have become?</item>
+        <item>What is the most annoying habit someone can have?</item>
+        <item>Where is the most beautiful place you have been?</item>
+        <item>Where do you spend most of your free time / day?</item>
+        <item>Who was your best friend in elementary school?</item>
+        <item>How often do you stay up past 3 a.m.?</item>
+        <item>What\'s your favorite season? Why?</item>
+        <item>Which is more important, a great car or a great house? Why?</item>
+        <item>What animal or insect do you wish humans could eradicate?</item>
+        <item>Where is the most beautiful place near where you live?</item>
+        <item>What do you bring with you everywhere you go?</item>
+        <item>How much time do you spend on the internet? What do you usually do?</item>
+        <item>What is the most disgusting habit some people have?</item>
+        <item>Where and when was the most amazing sunset you have ever seen?</item>
+        <item>Which recent news story is the most interesting?</item>
+        <item>Where is the worst place you have been stuck for a long time?</item>
+        <item>If you had to change your name, what would your new name be?</item>
+        <item>What is something that really annoys you but doesn\'t bother most people?</item>
+        <item>What word or saying from the past do you think should come back?</item>
+        <item>How should success be measured? By that measurement, who is the most successful person
+            you know?
+        </item>
+        <item>What is your guilty pleasure?</item>
+        <item>Was there ever an event in your life that defied explanation?</item>
+        <item>If you could learn the answer to one question about your future, what would the
+            question be?
+        </item>
+        <item>Has anyone ever saved your life?</item>
+        <item>What benefit do you bring to the group when you hang out with friends?</item>
+        <item>How often do you curse?</item>
+        <item>What trends did you follow when you were younger?</item>
+        <item>What do you fear is hiding in the dark?</item>
+        <item>What was the best time period of your life? What do you think will be the best time
+            period of your entire life?
+        </item>
+        <item>What do you do to improve your mood when you are in a bad mood?</item>
+        <item>What is the silliest fear you have?</item>
+        <item>What are some things you want to accomplish before you die?</item>
+        <item>What is the best room in your house? Why?</item>
+        <item>Who is someone who is popular now that you really like? Why do you like them so
+            much?
+        </item>
+        <item>Where is the best place to take a date?</item>
+        <item>What smell brings back great memories?</item>
+        <item>How often do you help others? Who do you help? How do you help?</item>
+        <item>What are you best at?</item>
+        <item>What makes you nervous?</item>
+        <item>Who, besides your parents, had the biggest impact on your life?</item>
+        <item>What weird or useless talent do you have?</item>
+        <item>What are some strange beliefs that some people have?</item>
+        <item>Who would be the worst person to be stuck in an elevator with? How about the best
+            person to be stuck in an elevator with?
+        </item>
+        <item>What\'s the funniest TV series you have seen?</item>
+        <item>Which TV show do you want your life to be like?</item>
+        <item>If you could bring back one TV show that was cancelled, which one would you bring
+            back?
+        </item>
+        <item>How have TV shows changed over the years?</item>
+        <item>What\'s the best sitcom past or present?</item>
+        <item>What\'s the best show currently on TV?</item>
+        <item>What do you think about game shows? Do you have a favorite one?</item>
+        <item>What\'s the most underrated or overrated TV show?</item>
+        <item>What do you think about reality TV? Why is it so popular?</item>
+        <item>Do you like reality TV shows? Why or why not? If so, which ones?</item>
+        <item>What will be the future of TV shows?</item>
+        <item>What was the best birthday wish or gift you\'ve ever received?</item>
+        <item>How often do you binge watch shows?</item>
+        <item>What cartoons did you watch as a child?</item>
+        <item>What\'s are some of your Pavlovian responses?</item>
+        <item>Where did you grow up?</item>
+        <item>Do you have any pets?</item>
+        <item>Do you have any siblings?</item>
+        <item>Do you know what your your name means?</item>
+        <item>What type of phone do you have?</item>
+        <item>What did you do this past weekend?</item>
+        <item>What are your plans for this weekend?</item>
+        <item>What do you like to do in your spare time?</item>
+        <item>What is the first thing you do when you wake up?</item>
+        <item>What is the last thing you do before you go to sleep?</item>
+        <item>What is your middle name?</item>
+        <item>What was the last thing you purchased?</item>
+        <item>What is your favorite holiday?</item>
+        <item>What is your favorite day of the week?</item>
+        <item>If you could meet anyone in history, who would it be?</item>
+        <item>What do you like to do to relax?</item>
+        <item>Are you a saver or a spender?</item>
+        <item>Do you play any instruments?</item>
+        <item>What was the last movie you watched? How was it?</item>
+
+        <item>Do you prefer to watch movies in the theater or in the comfort of your own home?
+        </item>
+
+        <item>What\'s the worst movie you have seen recently?</item>
+
+        <item>What\'s the strangest movie you have ever seen?</item>
+
+        <item>What is the most overrated movie?</item>
+
+        <item>What\'s your favorite genre of movie?</item>
+
+        <item>What movie scene choked you up the most?</item>
+
+        <item>Do you like documentaries? Why / why not?</item>
+
+        <item>When was the last time you went to a movie theater?</item>
+
+        <item>Do movies have the same power as books to change the world?</item>
+
+        <item>Which do you prefer? Books or movies?</item>
+
+        <item>Do you like horror movies? Why or why not?</item>
+        <item>What song always puts you in a good mood?</item>
+
+        <item>Which do you prefer, popular music or relatively unknown music?</item>
+
+        <item>What was the last song you listened to?</item>
+
+        <item>What is your favorite movie soundtrack?</item>
+
+        <item>Are there any songs that always bring a tear to your eye?</item>
+
+        <item>Do you like going to concerts? Why or why not? What was the last concert you went
+            to?
+        </item>
+
+        <item>Who was the first band or musician you were really into? Do you still like them?
+        </item>
+
+        <item>Records, tapes, CDs, MP3s. Which did you grow up with? What is good and bad about
+            each?
+        </item>
+
+        <item>What bands or types of music do you listen to when you exercise?</item>
+
+        <item>Do you like classical music?</item>
+
+        <item>What\'s the best way to discover new music?</item>
+
+        <item>How has technology changed the music industry?</item>
+        <item>What are the three best apps on your phone?</item>
+
+        <item>What\'s the most addictive mobile game you have played?</item>
+
+        <item>An app mysteriously appears on your phone that does something amazing. What does it
+            do?
+        </item>
+
+        <item>How many apps do you have on your phone?</item>
+
+        <item>What is the most annoying app you have tried?</item>
+
+        <item>Which app seemed like magic the first time you used it?</item>
+
+        <item>What is the strangest app you have heard of or tried?</item>
+
+        <item>Which app has helped society the most? Which one has hurt society the most?</item>
+
+        <item>What is the most useful app on your phone?</item>
+
+        <item>What apps have changed your life a lot?</item>
+
+        <item>What do app makers do that really annoys you?</item>
+        <item>How often do you check your phone?</item>
+
+        <item>Do you always have to have the latest phone?</item>
+
+        <item>What was your first smart phone? How did you feel when you got it?</item>
+
+        <item>What is the most annoying thing about your phone?</item>
+
+        <item>What kind of case do you have for your phone? Why did you choose it?</item>
+
+        <item>Do you text more or call more? Why?</item>
+
+        <item>What will phones be like in 10 years?</item>
+
+        <item>Do you experience phantom vibration? (Feeling your phone vibrate even though it
+            didn\'t.)
+        </item>
+
+        <item>How do you feel if you accidentally leave your phone at home?</item>
+
+        <item>What do you wish your phone could do?</item>
+        <item>Have you traveled to any different countries? Which ones?</item>
+
+        <item>Where is the most relaxing place you have been?</item>
+
+        <item>Where is the most awe inspiring place you have been?</item>
+
+        <item>Do you prefer traveling alone or with a group?</item>
+
+        <item>What do you think of tour group packages?</item>
+
+        <item>Talk about some of the interesting people you have met while traveling.</item>
+
+        <item>Where would you like to travel next?</item>
+
+        <item>What was the most over hyped place you\'ve traveled to?</item>
+
+        <item>What\'s the best way to travel? (Plane, car, train, etc.)</item>
+
+        <item>What\'s the best thing about traveling? How about the worst thing?</item>
+
+        <item>How do you think traveling to a lot of different countries changes a person?</item>
+
+        <item>What is the longest plane trip you have taken?</item>
+
+        <item>What do you think of stay-cations? (Vacationing and seeing tourist attractions where
+            you live.)
+        </item>
+
+        <item>Do you prefer to go off the beaten path when you travel?</item>
+
+        <item>Where do you get your recommendations for what to do and where to stay when you
+            travel?
+        </item>
+
+        <item>What is the worst hotel you have stayed at? How about the best hotel?</item>
+        <item>Do you care about fashion? What style of clothes do you usually wear?</item>
+
+        <item>What is the best pair of shoes you have ever owned? Why were they so good?</item>
+
+        <item>What is your favorite shirt?</item>
+
+        <item>What is the most embarrassing piece of clothing you own?</item>
+
+        <item>Does fashion help society in any way?</item>
+
+        <item>What is a fashion trend you are really glad went away?</item>
+
+        <item>Who do you think has the biggest impact on fashion trends: actors and actresses,
+            musicians, fashion designers, or consumers?
+        </item>
+
+        <item>What old trend is coming back these days?</item>
+
+        <item>If you didn\'t care at all what people thought of you, what clothes would you wear?
+        </item>
+
+        <item>What is the most comfortable piece of clothing you own?</item>
+
+        <item>How do clothes change how the opposite sex views a person?</item>
+        <item>What is the craziest, most outrageous thing you want to achieve?</item>
+
+        <item>What are some goals you have already achieved?</item>
+
+        <item>What personal goals do you have?</item>
+
+        <item>What do you hope to achieve in your professional life?</item>
+
+        <item>Have your parents influenced what goals you have?</item>
+
+        <item>Do you usually achieve goals you set? Why or why not?</item>
+
+        <item>What is the best way to stay motivated and complete goals?</item>
+
+        <item>What are some goals you have failed to accomplish?</item>
+
+        <item>When do you want to retire? What do you want to do when you retire?</item>
+
+        <item>What are your goals for the next two years?</item>
+
+        <item>How have your goals changed over your life?</item>
+
+        <item>How much do you plan for the future?</item>
+
+        <item>How do you plan to make the world a better place?</item>
+        <item>What is your favorite food?</item>
+
+        <item>Do you like spicy food? Why or why not? What is the spiciest thing you have ever
+            eaten?
+        </item>
+
+        <item>What foods do you absolutely hate?</item>
+
+        <item>What food do you know you shouldn\'t eat but can\'t help yourself?</item>
+
+        <item>Does government have a place in regulating food? To what extent should government
+            regulate food?
+        </item>
+
+        <item>When was the last time you had a food fight?</item>
+
+        <item>What do you get every time you go grocery shopping?</item>
+
+        <item>If your life was a meal, what would kind of meal would it be?</item>
+
+        <item>What do you think of buffets?</item>
+
+        <item>What would you want your last meal to be if you were on death row?</item>
+
+        <item>What food looks disgusting but tastes delicious?</item>
+
+        <item>When people make mistakes about food (especially foreign food) do you feel the need to
+            correct them? (i.e. sushi / sashimi or stromboli / calzone)
+        </item>
+        <item>Time freezes for everyone but you for one day. What do you do?</item>
+
+        <item>If you could call up anyone in the world and have a one hour conversation, who would
+            you call?
+        </item>
+
+        <item>You have to relive one day of your life forever. Which day do you choose?</item>
+
+        <item>If your mind was an island, what would it look like?</item>
+
+        <item>What flavor of ice cream do you wish existed?</item>
+
+        <item>What does your own personal hell look like? How about your own personal heaven?</item>
+
+        <item>A portal to another world opens in front of you. You don\'t know how long it will stay
+            open or if you\'ll be able to get back after you go through. What do you do?
+        </item>
+
+        <item>If you had a personal mascot, what would your mascot be?</item>
+
+        <item>You find a remote that can rewind, fast forward, stop and start time. What do you do
+            with it?
+        </item>
+
+        <item>If you were a king / queen, what would your throne look like?</item>
+
+        <item>If you were on the run from the police for a crime you didn\'t commit, where would you
+            go?
+        </item>
+        <item>When you are old, what do you think children will ask you to tell stories about?
+        </item>
+
+        <item>If you could switch two movie characters, what switch would lead to the most
+            inappropriate movies?
+        </item>
+
+        <item>What animal would be cutest if scaled down to the size of a cat?</item>
+
+        <item>What inanimate object would be the most annoying if it played loud upbeat music while
+            being used?
+        </item>
+
+        <item>When did something start out badly for you but in the end, it was great?</item>
+
+        <item>What weird food combinations do you really enjoy?</item>
+
+        <item>How would your country change if everyone, regardless of age, could vote?</item>
+
+        <item>What are some red flags to watch out for in daily life?</item>
+
+        <item>If your job gave you a surprise three day paid break to rest and recuperate, what
+            would you do with those three days?
+        </item>
+
+        <item>Where do you get your news?</item>
+
+        <item>What movie can you watch over and over without ever getting tired of?</item>
+
+        <item>What\'s wrong but sounds right?</item>
+
+        <item>What\'s the most epic way you\'ve seen someone quit or be fired?</item>
+
+        <item>If you couldn\'t be convicted of any one type of crime, what criminal charge would you
+            like to be immune to?
+        </item>
+
+        <item>What social stigma does society need to get over?</item>
+
+        <item>What\'s the most creative use of emojis you\'ve ever seen?</item>
+
+        <item>What\'s something that will always be in fashion, no matter how much time passes?
+        </item>
+
+        <item>What actors or actresses play the same character in almost every movie or show they
+            do?
+        </item>
+
+        <item>In the past people were buried with the items they would need in the afterlife, what
+            would you want buried with you so you could use it in the afterlife?
+        </item>
+
+        <item>What\'s the best / worst practical joke that you\'ve played on someone or that was
+            played on you?
+        </item>
+
+        <item>Who do you go out of your way to be nice to?</item>
+
+        <item>Where do you get most of the decorations for your home?</item>
+
+        <item>What food have you never eaten but would really like to try?</item>
+
+        <item>What food is delicious but a pain to eat?</item>
+
+        <item>Who was your craziest / most interesting teacher</item>
+
+        <item>What "old person" things do you do?</item>
+
+        <item>What was the last photo you took?</item>
+
+        <item>What is the most amazing slow motion video you\'ve seen?</item>
+
+        <item>Where are some unusual places you\'ve been?</item>
+
+        <item>Which celebrity do you think is the most down to earth?</item>
+
+        <item>What would be the worst thing to hear as you are going under anesthesia before heart
+            surgery?
+        </item>
+
+        <item>What\'s the spiciest thing you\'ve ever eaten?</item>
+
+        <item>What\'s the most expensive thing you\'ve broken?</item>
+
+        <item>What obstacles would be included in the World\'s most amazing obstacle course?</item>
+
+        <item>What makes you roll your eyes every time you hear it?</item>
+
+        <item>What do you think you are much better at than you actually are?</item>
+
+        <item>Should kidneys be able to be bought and sold?</item>
+
+        <item>When was the last time you got to tell someone "I told you so."?</item>
+
+        <item>What would a world populated by clones of you be like?</item>
+
+        <item>What riddles do you know?</item>
+
+        <item>What\'s your cure for hiccups?</item>
+
+        <item>What invention doesn\'t get a lot of love, but has greatly improved the world?</item>
+
+        <item>What\'s something you really resent paying for?</item>
+
+        <item>Do you think that aliens exist?</item>
+
+        <item>What are you currently worried about?</item>
+
+        <item>What\'s the most interesting building you\'ve ever seen or been in?</item>
+
+        <item>What mythical creature do you wish actually existed?</item>
+
+        <item>What are your most important rules when going on a date?</item>
+
+        <item>How do you judge a person?</item>
+
+        <item>If someone narrated your life, who would you want to be the narrator?</item>
+
+        <item>What was the most unsettling film you\'ve seen?</item>
+
+        <item>What unethical experiment would have the biggest positive impact on society as a
+            whole?
+        </item>
+
+        <item>When was the last time you were snooping, and found something you wish you hadn\'t?
+        </item>
+
+        <item>Which celebrity or band has the worst fan base?</item>
+
+        <item>What are you interested in that most people aren\'t?</item>
+
+        <item>If you were given a PhD degree, but had no more knowledge of the subject of the degree
+            besides what you have now, what degree would you want to be given to you?
+        </item>
+
+        <item>What smartphone feature would you actually be excited for a company to implement?
+        </item>
+
+        <item>What\'s something people don\'t worry about but really should?</item>
+
+        <item>What movie quotes do you use on a regular basis?</item>
+
+        <item>Do you think that children born today will have better or worse lives than their
+            parents?
+        </item>
+
+        <item>What\'s the funniest joke you know by heart?</item>
+
+        <item>When was the last time you felt you had a new lease on life?</item>
+
+        <item>What\'s the funniest actual name you\'ve heard of someone having?</item>
+
+        <item>Which charity or charitable cause is most deserving of money?</item>
+
+        <item>What TV show character would it be the most fun to change places with for a week?
+        </item>
+
+        <item>What was cool when you were young but isn\'t cool now?</item>
+
+        <item>If you were moving to another country, but could only pack one carry-on sized bag,
+            what would you pack?
+        </item>
+
+        <item>What\'s the most ironic thing you\'ve seen happen?</item>
+
+        <item>If magic was real, what spell would you try to learn first?</item>
+
+        <item>If you were a ghost and could possess people, what would you make them do?</item>
+
+        <item>What goal do you think humanity is not focused enough on achieving?</item>
+
+        <item>What problem are you currently grappling with?</item>
+
+        <item>What character in a movie could have been great, but the actor they cast didn\'t fit
+            the role?
+        </item>
+
+        <item>What game have you spent the most hours playing?</item>
+
+        <item>What\'s the most comfortable bed or chair you\'ve ever been in?</item>
+
+        <item>What\'s the craziest conversation you\'ve overheard?</item>
+
+        <item>What\'s the hardest you\'ve ever worked?</item>
+
+        <item>What movie, picture, or video always makes you laugh no matter how often you watch
+            it?
+        </item>
+
+        <item>What artist or band do you always recommend when someone asks for a music
+            recommendation?
+        </item>
+
+        <item>If you could have an all-expenses paid trip to see any famous world monument, which
+            monument would you choose?
+        </item>
+
+        <item>If animals could talk, which animal would be the most annoying?</item>
+
+        <item>What\'s the most addicted to a game you\'ve ever been?</item>
+        <item>What\'s the coldest you\'ve ever been?</item>
+
+        <item>Which protagonist from a book or movie would make the worst roommate?</item>
+
+        <item>Do you eat food that\'s past its expiration date if it still smells and looks fine?
+        </item>
+
+        <item>What\'s the most ridiculous thing you have bought?</item>
+
+        <item>What\'s the funniest comedy skit you\'ve seen?</item>
+
+        <item>What\'s the most depressing meal you\'ve eaten?</item>
+
+        <item>What tips or tricks have you picked up from your job / jobs?</item>
+
+        <item>What outdoor activity haven\'t you tried, but would like to?</item>
+
+        <item>What songs hit you with a wave of nostalgia every time you hear them?</item>
+
+        <item>What\'s the worst backhanded compliment you could give someone?</item>
+
+        <item>What\'s the most interesting documentary you\'ve ever watched?</item>
+
+        <item>What was the last song you sung along to?</item>
+
+        <item>What\'s the funniest thing you\'ve done or had happen while your mind was wandering?
+        </item>
+
+        <item>What app can you not believe someone hasn\'t made yet?</item>
+
+        <item>When was the last time you face palmed?</item>
+
+        <item>If you were given five million dollars to open a small museum, what kind of museum
+            would you create?
+        </item>
+
+        <item>Which of your vices or bad habits would be the hardest to give up?</item>
+
+        <item>What really needs to be modernized?</item>
+
+        <item>When was the last time you slept more than nine hours?</item>
+
+        <item>How comfortable are you speaking in front of large groups of people?</item>
+
+        <item>What\'s your worst example of procrastination?</item>
+
+        <item>Who has zero filter between their brain and mouth?</item>
+
+        <item>What was your most recent lie?</item>
+
+        <item>When was the last time you immediately regretted something you said?</item>
+
+        <item>What would be the best thing you could reasonably expect to find in a cave?</item>
+
+        <item>What did you think was going to be amazing but turned out to be horrible?</item>
+
+        <item>What bit of trivia do you know that is very interesting but also very useless?</item>
+
+        <item>What\'s the silliest thing you\'ve seen someone get upset about?</item>
+
+        <item>What animal or plant do you think should be renamed?</item>
+
+        <item>What was the best thing that happened to you today?</item>
+
+        <item>What languages do you wish you could speak?</item>
+
+        <item>What\'s the most pleasant sounding accent?</item>
+
+        <item>What\'s something that everyone, absolutely everyone, in the entire world can agree
+            on?
+        </item>
+
+        <item>What country is the strangest?</item>
+
+        <item>What\'s the funniest word in the English language?</item>
+
+        <item>What\'s some insider knowledge that only people in your line of work have?</item>
+
+        <item>Who do you wish you could get back into contact with?</item>
+
+        <item>How do you make yourself sleep when you can\'t seem to get to sleep?</item>
+
+        <item>If people receive a purple heart for bravery, what would other color hearts
+            represent?
+        </item>
+
+        <item>What are some of the best vacations you\'ve had?</item>
+
+        <item>If there was a book of commandments for the modern world, what would some of the rules
+            be?
+        </item>
+
+        <item>What\'s the craziest video you\'ve ever seen?</item>
+
+        <item>What\'s your "Back in my day, we-"?</item>
+
+        <item>If you could know the truth behind every conspiracy, but you would instantly die if
+            you hinted that you knew the truth, would you want to know?
+        </item>
+
+        <item>What animal would be the most terrifying if it could speak?</item>
+
+        <item>What\'s the worst hairstyle you\'ve ever had?</item>
+
+        <item>What habit do you have now that you wish you started much earlier?</item>
+
+        <item>If you were given one thousand acres of land that you didn\'t need to pay taxes on but
+            couldn\'t sell, what would you do with it?
+        </item>
+
+        <item>What about the opposite sex confuses you the most?</item>
+
+        <item>When was the last time you yelled at someone?</item>
+
+        <item>What\'s the opposite of a koala?</item>
+
+        <item>What kinds of things do you like to cook or are good at cooking?</item>
+
+        <item>What life skills are rarely taught but extremely useful?</item>
+
+        <item>What movie universe would be the worst to live out your life in?</item>
+
+        <item>If you could hack into any one computer, which computer would you choose?</item>
+
+        <item>Who do you feel like you know even though you\'ve never met them?</item>
+
+        <item>What\'s the most ridiculous animal on the planet?</item>
+
+        <item>What\'s the worst thing you\'ve eaten out of politeness?</item>
+
+        <item>What\'s the most historic thing that has happened in your lifetime?</item>
+
+        <item>What happens in your country regularly that people in most countries would find
+            strange or bizarre?
+        </item>
+
+        <item>What has been blown way out of proportion?</item>
+
+        <item>When was a time you acted nonchalant but were going crazy inside?</item>
+
+        <item>What\'s about to get much better?</item>
+
+        <item>What are some clever examples of misdirection you\'ve seen?</item>
+
+        <item>What\'s your funniest story involving a car?</item>
+
+        <item>What would be the click-bait titles of some popular movies?</item>
+
+        <item>If you built a themed hotel, what would the theme be and what would the rooms look
+            like?
+        </item>
+
+        <item>What scientific discovery would change the course of humanity overnight if it was
+            discovered?
+        </item>
+
+        <item>Do you think that humans will ever be able to live together in harmony?</item>
+
+        <item>What would your perfect bar look like?</item>
+
+        <item>What\'s the scariest nonhorror movie?</item>
+
+        <item>What\'s the most amazing true story you\'ve heard?</item>
+
+        <item>What\'s the grossest food that you just can\'t get enough of?</item>
+
+        <item>What brand are you most loyal to?</item>
+
+        <item>What\'s the most awkward thing that happens to you on a regular basis?</item>
+
+        <item>If you had to disappear and start a whole new life, what would you want your new life
+            to look like?
+        </item>
+
+        <item>What movie or book do you know the most quotes from?</item>
+
+        <item>What was one of the most interesting concerts you\'ve been to?</item>
+
+        <item>Where are you not welcome anymore?</item>
+
+        <item>What do you think could be done to improve the media?</item>
+
+        <item>What\'s the most recent show you\'ve binge watched?</item>
+
+        <item>What\'s the worst movie trope?</item>
+
+        <item>What\'s a common experience for many people that you\'ve never experienced?</item>
+
+        <item>What are some misconceptions about your hobby?</item>
+
+        <item>What\'s the smartest thing you\'ve seen an animal do?</item>
+
+        <item>What\'s the most annoying noise?</item>
+
+        <item>What\'s your haunted house story?</item>
+
+        <item>What did you Google last?</item>
+
+        <item>What\'s the dumbest thing someone has argued with you about?</item>
+
+        <item>If money and practicality weren\'t a problem, what would be the most interesting way to
+            get around town?
+        </item>
+
+        <item>What\'s the longest rabbit hole you\'ve been down?</item>
+
+        <item>What\'s the saddest scene in a movie or TV series?</item>
+
+        <item>What\'s the most frustrating product you own?</item>
+
+        <item>What inconsequential super power would you like to have?</item>
+
+        <item>What qualities do all your friends have in common?</item>
+
+        <item>What odd smell do you really enjoy?</item>
+
+        <item>What\'s the coolest animal you\'ve seen in the wild?</item>
+
+        <item>What\'s the best lesson you\'ve learned from a work of fiction?</item>
+
+        <item>What food do you crave most often?</item>
+
+        <item>Who in your life has the best / worst luck?</item>
+
+        <item>What fashion trend makes you cringe or laugh every time you see it?</item>
+
+        <item>What\'s your best story of you or someone else trying to be sneaky and failing
+            miserably?
+        </item>
+
+        <item>Which apocalyptic dystopia do you think is most likely?</item>
+
+        <item>If you had a HUD that showed three stats about any person you looked at, what three
+            stats would you want it to show?
+        </item>
+
+        <item>What\'s the funniest thing you\'ve seen a kid do?</item>
+
+        <item>What\'s your secret talent?</item>
+
+        <item>What\'s the best way you or someone you know has gotten out of a ticket / trouble with
+            the law?
+        </item>
+
+        <item>Tear gas makes people cry and laughing gas makes people giggle, what other kinds of
+            gases do you wish existed?
+        </item>
+        <item>What\'s the most beautiful beach you\'ve been to?</item>
+
+        <item>What\'s the most anxiety inducing thing you do on a regular basis?</item>
+
+        <item>What\'s something that everyone agrees we should change, but somehow it never
+            changes?
+        </item>
+
+        <item>What trend are you tired of?</item>
+
+        <item>What\'s incredibly cheap and you would pay way more for?</item>
+
+        <item>What\'s your grossest bug story?</item>
+
+        <item>What would the adult version of an ice-cream truck sell and what song would it play?
+        </item>
+
+        <item>What company do you despise?</item>
+
+        <item>When was the most inappropriate time you busted out in laughter?</item>
+
+        <item>What would be an accurate tag line for each month?</item>
+
+        <item>What\'s the most overrated product out on the market?</item>
+
+        <item>What word do you always misspell?</item>
+
+        <item>What naps are the most satisfying?</item>
+
+        <item>What\'s the weirdest thing you\'ve found lying on the ground / side of the road?</item>
+
+        <item>What\'s the funniest TV show you\'ve ever seen?</item>
+
+        <item>What\'s the most embarrassing story from your childhood?</item>
+
+        <item>What animal is the most majestic?</item>
+
+        <item>What\'s something that everyone knows is true, but we don\'t like to admit it?</item>
+
+        <item>What\'s the weirdest text or email you\'ve gotten?</item>
+
+        <item>What always cheers you up when you think about it?</item>
+
+        <item>What sport could you play the longest in a televised game, without anyone discovering
+            you aren\'t a professional athlete?
+        </item>
+
+        <item>If you could talk to animals and they would understand you, but you couldn\'t
+            understand them, what would you do with that power?
+        </item>
+
+        <item>What\'s the most boring sport, and what would you do to make it more exciting?</item>
+
+        <item>What\'s the creepiest tech out there?</item>
+
+        <item>Who did you use to look up to, but they screwed up and you lost faith in them?</item>
+
+        <item>What\'s fine in small numbers but terrifying in large numbers?</item>
+
+        <item>Do you like things to be carefully planned or do you prefer to just go with the
+            flow?
+        </item>
+
+        <item>What animal would you most like to eat?</item>
+
+        <item>What fictional characters have you had a crush on over the years?</item>
+
+        <item>What would the box with all your hopes and dreams inside look like?</item>
+
+        <item>What was the worst shopping experience you\'ve ever had?</item>
+
+        <item>What story you\'ve heard has stayed with you and always disturbs you every time you
+            think about it?
+        </item>
+
+        <item>What was the most important appointment or deadline you missed?</item>
+
+        <item>If you were a clown themed super hero, what powers would you have?</item>
+
+        <item>If you could airdrop anything you want, worth two million dollars or less, anywhere
+            you want, what would you airdrop and where would you airdrop it?
+        </item>
+
+        <item>If you lived in a virtual reality world of your own creation, what would it look
+            like?
+        </item>
+
+        <item>What escalated very quickly?</item>
+
+        <item>What two things are terrible when separate but great when you put them together?
+        </item>
+
+        <item>What did you believe for way too long as a child?</item>
+
+        <item>What big event do you think will happen soon that most people aren\'t expecting?</item>
+
+        <item>What still makes you cringe when you think back on it?</item>
+
+        <item>What current trend makes no sense to you?</item>
+
+        <item>If you owned a restaurant, what kind of food would it serve?</item>
+
+        <item>Which celebrity is the most likely to have a collection of canes that are just for
+            show?
+        </item>
+
+        <item>What\'s the weirdest crush you\'ve had?</item>
+
+        <item>What do a lot of people have very strong opinions about, even though they know very
+            little about it?
+        </item>
+
+        <item>What\'s your go to casino game?</item>
+
+        <item>An epic feast is held in your honor, What\'s on the table?</item>
+
+        <item>What\'s your favorite holiday movie?</item>
+
+        <item>Who is the most manipulative person you\'ve ever met?</item>
+
+        <item>Who is the most creative person you know?</item>
+
+        <item>What\'s the funniest pick up line you\'ve heard?</item>
+
+        <item>What seemingly innocent question makes you think "It\'s a trap!"?</item>
+
+        <item>How ambitious are you?</item>
+
+        <item>What did you like / dislike about where you grew up?</item>
+
+        <item>What elements of pop culture will be forever tied in your mind to your childhood?
+        </item>
+
+        <item>What\'s your good luck charm?</item>
+
+        <item>What\'s legal now, but probably won\'t be in 25 years?</item>
+
+        <item>Would you want the ability to hear the thoughts of people near you if you couldn\'t
+            turn the ability off?
+        </item>
+
+        <item>When was the last time you stayed up through the entire night?</item>
+
+        <item>What\'s something that people think makes them look cool, but actually has the opposite
+            effect?
+        </item>
+
+        <item>What\'s the oldest thing you own?</item>
+
+        <item>What has someone borrowed but never given back?</item>
+
+        <item>Where is the best place you\'ve been for taking walks?</item>
+
+        <item>If cartoon physics suddenly replaced real physics, what are some things you would want
+            to try?
+        </item>
+
+        <item>What from the present will withstand the test of time?</item>
+
+        <item>Who in your life is the worst at using technology?</item>
+
+        <item>What\'s the weirdest conversation you\'ve eavesdropped on?</item>
+
+        <item>What just around the corner tech are you eager to get your hands on?</item>
+
+        <item>What was the darkest movie you\'ve ever seen?</item>
+
+        <item>What do you do when you hear something fall in the middle of the night while you are
+            in bed?
+        </item>
+
+        <item>What outfit could you put together from clothes you own to get the most laughs?</item>
+
+        <item>What\'s the most disgusting sounding word in the English language?</item>
+
+        <item>What was ruined because it became popular?</item>
+
+        <item>What outdated slang do you use on a regular basis?</item>
+
+        <item>What was the biggest realization you had about yourself?</item>
+
+        <item>What\'s your best example of easy come, easy go?</item>
+
+        <item>What small change greatly improves a person\'s appearance?</item>
+
+        <item>What topic could you spend hours talking about?</item>
+
+        <item>What happens regularly that would horrify a person from 100 years ago?</item>
+
+        <item>What do a lot of people hope will happen but is just not going to happen?</item>
+
+        <item>What\'s the weirdest thing that has happened to you while working at your job?</item>
+
+        <item>What questions would you like to ask a time traveler from 200 years in the future?
+        </item>
+
+        <item>Which way should toilet paper hang, over or under?</item>
+
+        <item>What\'s the most physically painful thing you\'ve ever experienced?</item>
+
+        <item>What horror story do you have from a job you\'ve had?</item>
+
+        <item>What\'s the most rage inducing game you\'ve ever played?</item>
+
+        <item>What\'s the biggest overreaction you\'ve ever seen?</item>
+
+        <item>What are some of the most common misconceptions?</item>
+
+        <item>What job doesn\'t exist now but will exist in the future?</item>
+        <item>What awful movie do you love?</item>
+
+        <item>What normally delicious food gets ruined when you wrap it in a tortilla?</item>
+
+        <item>What\'s your best example of fake it till you make it?</item>
+
+        <item>What were you completely certain of until you found out you were wrong?</item>
+
+        <item>What\'s something commonly done that gets progressively weirder the more you think
+            about it?
+        </item>
+
+        <item>What\'s the cutest thing you can imagine? Something so cute it\'s almost painful.</item>
+
+        <item>If you were given unlimited resources, how would you lure the worst of humanity into
+            one stadium at the same time?
+        </item>
+
+        <item>What do you think about when you hear the word "classy"?</item>
+
+        <item>What near future predictions do you have?</item>
+
+        <item>What do you need help with most often?</item>
+
+        <item>What piece of "art" would you create if you had to pretend to be an artist and submit
+            something to a gallery?
+        </item>
+
+        <item>What do you do to make the world a better place?</item>
+
+        <item>What\'s the best and worst thing about the country you are from?</item>
+
+        <item>If you were in charge renaming things so that their names would be more accurate, what
+            names would you come up with?
+        </item>
+
+        <item>What\'s better broken than whole?</item>
+
+        <item>What values are most important to you?</item>
+
+        <item>What\'s the best sandwich you\'ve ever had?</item>
+
+        <item>What\'s the worst thing you ate from a fast food restaurant?</item>
+
+        <item>What\'s something that I don\'t know?</item>
+
+        <item>What profession doesn\'t get enough credit or respect?</item>
+
+        <item>What memory of yours feels real but is most likely false?</item>
+
+        <item>What\'s your "and then it got worse" story?</item>
+
+        <item>What was the most amazing physical feat you\'ve managed to pull off?</item>
+
+        <item>What\'s the most annoying thing about the social media platform you use most often?
+        </item>
+
+        <item>If you were hired to show tourists what life is really like where you live, what would
+            you show them / have them do?
+        </item>
+
+        <item>What would be the most unsettling thing to keep occasionally finding around your
+            house?
+        </item>
+
+        <item>What nicknames do you have for people in your life?</item>
+
+        <item>What does the opposite sex do that you wish that you could do, but it\'s not
+            anatomically feasible or it\'s socially frowned upon?
+        </item>
+
+        <item>How much do you plan / prepare for the future?</item>
+
+        <item>What do you hate most and love most about your car?</item>
+
+        <item>What weird potato chip flavor that doesn\'t exist would you like to try?</item>
+
+        <item>What\'s the silliest thing you\'ve convinced someone of?</item>
+
+        <item>How much do you think names affect the outcomes of people\'s lives?</item>
+
+        <item>What product or service is way more expensive than it needs to be?</item>
+
+        <item>What\'s the shadiest thing you\'ve seen someone do?</item>
+
+        <item>What was the last situation where some weird stuff went down and everyone acted like
+            it was normal, and you weren\'t sure if you were crazy or everyone around you was crazy?
+        </item>
+
+        <item>What did you eat so much of that now you hate it?</item>
+
+        <item>What are some of the dumbest lyrics you\'ve heard in a song?</item>
+
+        <item>Where\'s the line between soup and cereal?</item>
+
+        <item>What word do you always mispronounce?</item>
+
+        <item>What do you think you do better than 90% of people?</item>
+
+        <item>What would be the worst food to be liquefied and drunk through a straw?</item>
+
+        <item>What\'s the weirdest thing about modern life that people just accept as normal?</item>
+
+        <item>How much of your body would you cybernetically enhance if you could?</item>
+
+        <item>If you wanted to slowly drive a roommate insane using only notes, what kind of notes
+            would you leave around the house?
+        </item>
+
+        <item>If you had a giraffe that you needed to hide, where would you hide it?</item>
+
+        <item>What\'s the clumsiest thing you\'ve done?</item>
+
+        <item>What songs do you only know the chorus to?</item>
+
+        <item>Think of a brand, now what would an honest slogan for that brand be?</item>
+
+        <item>What\'s something common from your childhood that will seem strange to future
+            generations?
+        </item>
+        <item>What\'s the most amazing place in nature you\'ve been?</item>
+
+        <item>What\'s quickly becoming obsolete?</item>
+
+        <item>Where is the most uncomfortable place you have ever slept?</item>
+
+        <item>What\'s the most annoying animal you\'ve encountered?</item>
+
+        <item>What\'s your best example of correlation not equaling causation?</item>
+
+        <item>In what situations, do you wish you could throw down a smoke bomb and disappear?
+        </item>
+
+        <item>When was the last time you were hopelessly lost?</item>
+
+        <item>What songs do you feel compelled to sing along with when you hear them, even if you
+            don\'t totally know all the words?
+        </item>
+
+        <item>What product do you wish a company would make a "smart" version of?</item>
+
+        <item>What two films would you like to combine into one?</item>
+
+        <item>As a child, what did you think would be awesome about being an adult, but isn\'t as
+            awesome as you thought it would be?
+        </item>
+
+        <item>When\'s censorship warranted?</item>
+
+        <item>What\'s the most boring super hero you can come up with?</item>
+
+        <item>What would be some of the downsides of certain superpowers?</item>
+
+        <item>What word is a lot of fun to say?</item>
+
+        <item>What current trend do you hope will go on for a long time?</item>
+
+        <item>What actors or actresses can\'t play a different character because they played their
+            most famous character too well?
+        </item>
+
+        <item>Where\'s your go to restaurant for amazing food?</item>
+
+        <item>What\'s something that all your friends agree on?</item>
+
+        <item>What\'s your best story from a wedding?</item>
+
+
+    </array>
+</resources>

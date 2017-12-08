@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Konversator</string>
+    <string name="txt_filler">Run out of words to say?</string>
+    <string name="gimme">gimme some words</string>
+    <string name="copy">copy</string>
+    <string name="share">share</string>
+</resources>
